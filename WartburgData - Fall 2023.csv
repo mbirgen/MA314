@@ -1,0 +1,545 @@
+Course ID,Department,Course,Section,Course Title,Name,Schedule,LMT/ENR/WL,LMT,ENR,WL,Location,Yr,Trm,CRDTS
+AC 121 01,AC,121,1,Principles of Accounting I,"Thomas, R",M W F 7:45AM-8:50AM,45/45/0,45,45,0,WBC 116,2023-24,FA,1
+AC 121 02,AC,121,2,Principles of Accounting I,"Pilcher, A",M W F 2:30PM-3:35PM,45/41/0,45,41,0,WBC 116,2023-24,FA,1
+AC 121 03,AC,121,3,Principles of Accounting I,"Pilcher, A",,45/31/0,45,31,0,,2023-24,FA,1
+AC 122 01,AC,122,1,Principles of Accounting II,"Pilcher, A",M W F 12:00PM-1:05PM,45/12/0,45,12,0,WBC 116,2023-24,FA,1
+AC 321 01,AC,321,1,Intermediate Accounting I,"Thomas, R",M W F 9:00AM-10:05AM,28/21/0,28,21,0,WBC 215,2023-24,FA,1
+AC 423 01,AC,423,1,Income Tax Accounting I,"Thomas, R",M W F 10:45AM-11:50AM,25/10/0,25,10,0,WBC 217,2023-24,FA,1
+AC 427 01,AC,427,1,Senior Seminar in Accounting,"Pilcher, A",M W 1:15PM-2:20PM,24/8/0,24,8,0,WBC 116,2023-24,FA,0.5
+ART 105 01,ART,105,1,Design I,"Fedeler, B",TH 8:30AM-11:10AM,18/18/0,18,18,0,FAC 114D,2023-24,FA,1
+ART 108 01,ART,108,1,Graphic Design,"Elkashif, M",M W F 10:45AM-11:50AM,20/19/0,20,19,0,FAC 114C,2023-24,FA,1
+ART 111 01,ART,111,1,Drawing,"Fedeler, B",T H 1:00PM-3:35PM,16/16/0,16,16,0,FAC 114E,2023-24,FA,1
+ART 150 01,ART,150,1,"20th-Century Art, Media, & Design","Knox, R",M W F 9:00AM-10:05AM,25/14/0,25,14,0,FAC 114J,2023-24,FA,1
+ART 208 01,ART,208,1,Photography I,"Elkashif, M",T H 1:00PM-2:40PM,20/17/1,20,17,1,FAC 114C,2023-24,FA,1
+ART 210 01,ART,210,1,Communication Design II,"Elkashif, M",M W F 1:15PM-2:20PM,20/10/0,20,10,0,FAC 114C,2023-24,FA,1
+ART 461 01,ART,461,1,Seminar in Art: Research,"Fedeler, B",T 6:30PM-8:10PM,10/7/00,10,7,0,FAC 114J,2023-24,FA,0.5
+BA 331 01,BA,331,1,Business Law I,"Luhring, L",MWF 12:00PM-1:05PM,40/43/1,40,43,1,WBC 214,2023-24,FA,1
+BA 334 01,BA,334,1,Business Finance,"Ross, C",M W F 9:00AM-10:05AM,36/32/0,36,32,0,GRO 132,2023-24,FA,1
+BA 334 02,BA,334,2,Business Finance,"Ross, C",T H 9:35AM-11:15AM,36/35/1,36,35,1,WBC 215,2023-24,FA,1
+BA 345 01,BA,345,1,Principles of Management,"Gonnerman, M",M W F 1:15PM-2:20PM,32/32/2,32,32,2,WBC 117,2023-24,FA,1
+BA 345 02,BA,345,2,Principles of Management,"Meyeraan, S",T H 9:35AM-11:15AM,32/16/0,32,16,0,WBC 116,2023-24,FA,1
+BA 353 01,BA,353,1,Principles of Marketing,"Gonnerman, M",M W F 7:45AM-8:50AM,32/20/0,32,20,0,WBC 117,2023-24,FA,1
+BA 353 02,BA,353,2,Principles of Marketing,"Gonnerman, M",M W F 10:45AM-11:50AM,32/32/0,32,32,0,WBC 117,2023-24,FA,1
+BA 361 01,BA,361,1,Operations Management,"Mahmoud, M",M W F 2:30PM-3:35PM,25/26/0,25,26,0,SC 247,2023-24,FA,1
+BA 362 01,BA,362,1,Supply Chain Management,"Pilcher, A",M W F 9:00AM-10:05AM,25/16/0,25,16,0,WBC 217,2023-24,FA,1
+BA 424 01,BA,424,1,Consumer Behavior,"Meyeraan, S",MWF 9:00AM-10:05AM,30/25/0,30,25,0,WBC 116,2023-24,FA,1
+BA 444 01,BA,444,1,Marketing Research,"Bernard, A",TH 1:00PM-2:40PM,28/13/0,28,13,0,WBC 117,2023-24,FA,1
+BA 447 01,BA,447,1,Entrepreneurship,"Bernard, A",M W F 9:00AM-10:05AM,35/14/0,35,14,0,WBC 117,2023-24,FA,1
+BA 449 01,BA,449,1,Organizational Leadership,"Gonnerman, M",M W F 12:00PM-1:05PM,32/16/0,32,16,0,WBC 217,2023-24,FA,1
+BA 460 01,BA,460,1,Senior Seminar in Business,"Bernard, A",T H 9:35AM-11:15AM,22/23/0,22,23,0,WBC 117,2023-24,FA,1
+BA 460 02,BA,460,2,Senior Seminar in Business,"Bernard, A",T H 7:45AM-9:25AM,22/15/0,22,15,0,WBC 117,2023-24,FA,1
+BI 117 01,BI,117,1,Environmental Biology,"McCullough, D",M WF 10:45AM-11:50AM,24/24/0,24,24,0,SC 145,2023-24,FA,1
+BI 117 01,BI,117,1,Environmental Biology Lab,"McCullough, D",T 9:35AM-11:15AM,24/24/0,24,24,0,SC 145,2023-24,FA,0
+BI 130 01,BI,130,1,Drugs and Personal Health,"Place, A",M F 1:15PM-2:55PM,24/24/2,24,24,2,,2023-24,FA,1
+BI 130 01,BI,130,1,Drugs and Pers Health Lab,"Berns, E",W 1:15PM-2:55PM,24/24/2,24,24,2,SC 034,2023-24,FA,0
+BI 151 01,BI,151,1,"Biology I: Cells, Genes, Evol, Div","Coleman, S",M W F 9:00AM-10:05AM,84/81/0,84,81,0,SC 102,2023-24,FA,1
+BI 151 01,BI,151,1,"Bio I: Cells, Genes, Evol, Div Lab","Berns, E",T 7:45AM-11:00AM,24/24/0,24,24,0,SC 126,2023-24,FA,0
+BI 151 02,BI,151,2,"Biology I: Cells, Genes, Evol, Div","Toering Peters, S",M W F 10:45AM-11:50AM,84/80/0,84,80,0,SC 102,2023-24,FA,1
+BI 151 02,BI,151,2,"Bio I: Cells, Genes, Evol, Div Lab","Karki, S",T 1:00PM-4:15PM,24/19/0,24,19,0,SC 126,2023-24,FA,0
+BI 151 03,BI,151,3,"Bio I: Cells, Genes, Evol, Div Lab","Karki, S",H 7:45AM-11:00AM,24/24/0,24,24,0,SC 126,2023-24,FA,0
+BI 151 04,BI,151,4,"Bio I: Cells, Genes, Evol, Div Lab","Berns, E",H 7:45AM-11:00AM,24/25/0,24,25,0,SC 034,2023-24,FA,0
+BI 151 05,BI,151,5,"Bio I: Cells, Genes, Evol, Div Lab","Davidson, C",H 1:00PM-4:15PM,24/24/0,24,24,0,SC 034,2023-24,FA,0
+BI 151 06,BI,151,6,"Bio I: Cells, Genes, Evol, Div Lab","Toering Peters, S",H 1:00PM-4:15PM,24/22/0,24,22,0,SC 126,2023-24,FA,0
+BI 151 07,BI,151,7,"Bio I: Cells, Genes, Evol, Div Lab","Coleman, S",T 7:45AM-11:00AM,24/23/0,24,23,0,SC 034,2023-24,FA,0
+BI 209 01,BI,209,1,Ecology,"Karki, S",M W F 2:30PM-3:35PM,24/10/0,24,10,0,SC 145,2023-24,FA,1
+BI 209 01,BI,209,1,Ecology Lab,"Karki, S",H 1:00PM-4:15PM,24/10/0,24,10,0,SC 145,2023-24,FA,0
+BI 211 01,BI,211,1,Genetics,"Coleman, S",MWF 1:15PM-2:20PM,24/24/0,24,24,0,SC 102,2023-24,FA,1
+BI 211 01,BI,211,1,Genetics Lab,"Coleman, S",T H 1:00PM-2:40PM,24/24/0,24,24,0,SC 024,2023-24,FA,0
+BI 221 01,BI,221,1,Cell Biology,"Davidson, C",M W F 1:15PM-2:20PM,20/17/0,20,17,0,SC 244,2023-24,FA,1
+BI 221 01,BI,221,1,Cell Biology Lab,"Davidson, C",T H 9:35AM-11:15AM,20/17/0,20,17,0,SC 024,2023-24,FA,0
+BI 304 01,BI,304,1,Developmental Biology,"Toering Peters, S",M W F 9:00AM-10:05AM,24/13/0,24,13,0,SC 245,2023-24,FA,1
+BI 304 01,BI,304,1,Developmental Biology Lab,"Toering Peters, S",T 7:45AM-11:00AM,24/13/0,24,13,0,SC 104,2023-24,FA,0
+BI 317 01,BI,317,1,Human Anatomy,"Mommer, B",M W F 2:30PM-3:35PM,48/46/0,48,46,0,SC 102,2023-24,FA,1
+BI 317 01,BI,317,1,Human Anatomy Lab 1,"Mommer, B",T 1:00PM-4:15PM,24/24/0,24,24,0,SC 030,2023-24,FA,0
+BI 317 02,BI,317,2,Human Anatomy Lab 2,"Mommer, B",H 7:45AM-11:00AM,24/22/0,24,22,0,SC 030,2023-24,FA,0
+BI 440 01,BI,440,1,Teaching Practicum in Biology,"Horrigan, J",,10/5/00,10,5,0,,2023-24,FA,0.25
+BI 455 01,BI,455,1,Methods of Biological Research,"Davidson, C",T 6:30PM-7:35PM,32/21/0,32,21,0,SC 134,2023-24,FA,0.5
+BI 461 01,BI,461,1,Science Seminar,"Mommer, B",MW 10:45AM-11:50AM,25/12/0,25,12,0,SC 041,2023-24,FA,0.5
+CCJ 201 01,CCJ,201,1,Intro Criminology/Criminal Justice,"McQueen, J",M W F 12:00PM-1:05PM,30/27/0,30,27,0,W 2240,2023-24,FA,1
+CCJ 309 01,CCJ,309,1,Juvenile Justice,"McQueen, J",M W F 2:30PM-3:35PM,20/16/0,20,16,0,LH 201,2023-24,FA,1
+CH 110 01,CH,110,1,Chemistry of Ordinary Things,"Bechtel, M",M W F 9:00AM-10:05AM,24/20/0,24,20,0,SC 128,2023-24,FA,1
+CH 110 01,CH,110,1,Chemistry of Ordinary Things Lab 1,"Bechtel, M",T 7:45AM-9:25AM,24/20/0,24,20,0,SC 128,2023-24,FA,0
+CH 110 02,CH,110,2,Chemistry of Ordinary Things,"Bechtel, M",M W F 12:00PM-1:05PM,24/19/0,24,19,0,SC 128,2023-24,FA,1
+CH 110 02,CH,110,2,Chemistry of Ordinary Things Lab 2,"Bechtel, M",T 9:35AM-11:15AM,24/19/0,24,19,0,SC 128,2023-24,FA,0
+CH 113 01,CH,113,1,Principles of Chemistry I,"DeVries, C",M WF 7:45AM-8:50AM,56/61/0,56,61,0,SC 102,2023-24,FA,1
+CH 113 01,CH,113,1,Principles of Chemistry I Lab 1,"Stephens, N",T 8:30AM-11:15AM,24/24/0,24,24,0,SC 202,2023-24,FA,0
+CH 113 02,CH,113,2,Principles of Chemistry I,"Stephens, N",M W F 9:00AM-10:05AM,58/53/0,58,53,0,SC 134,2023-24,FA,1
+CH 113 02,CH,113,2,Principles of Chemistry I Lab 2,"Schumacher, D",T 1:00PM-3:45PM,24/21/0,24,21,0,SC 202,2023-24,FA,0
+CH 113 03,CH,113,3,Principles of Chemistry I,"Zart, L",M W F 10:45AM-11:50AM,58/53/0,58,53,0,SC 134,2023-24,FA,1
+CH 113 03,CH,113,3,Principles of Chemistry I Lab 3,"Schumacher, D",W 2:30PM-5:15PM,24/12/0,24,12,0,SC 202,2023-24,FA,0
+CH 113 04,CH,113,4,Principles of Chemistry I Lab 4,"Schumacher, D",W 6:45PM-9:30PM,24/21/0,24,21,0,SC 202,2023-24,FA,0
+CH 113 05,CH,113,5,Principles of Chemistry I Lab 5,"DeVries, C",H 8:30AM-11:15AM,24/24/0,24,24,0,SC 202,2023-24,FA,0
+CH 113 06,CH,113,6,Principles of Chemistry I Lab 6,"DeVries, C",H 1:00PM-3:45PM,24/24/0,24,24,0,SC 202,2023-24,FA,0
+CH 113 07,CH,113,7,Principles of Chemistry I Lab 7,"Schumacher, D",M 7:00PM-9:45PM,24/21/0,24,21,0,SC 202,2023-24,FA,0
+CH 113 08,CH,113,8,Principles of Chemistry I Lab 8,"Schumacher, D",M 2:30PM-5:15PM,24/20/0,24,20,0,SC 202,2023-24,FA,0
+CH 160 01,CH,160,1,Introduction to Biochemistry,"Ellerbroek, S",M W F 2:30PM-3:35PM,36/11/0,36,11,0,SC 134,2023-24,FA,1
+CH 211 01,CH,211,1,Organic Chemistry I,"Zart, L",MWF 12:00PM-1:05PM,72/49/0,72,49,0,SC 102,2023-24,FA,1
+CH 211 01,CH,211,1,Organic Chemistry I Lab 1,"Zart, L",T 7:45AM-11:15AM,18/17/0,18,17,0,SC 226,2023-24,FA,0
+CH 211 02,CH,211,2,Organic Chemistry I Lab 2,"Zart, L",T 1:00PM-4:30PM,18/10/0,18,10,0,SC 226,2023-24,FA,0
+CH 211 03,CH,211,3,Organic Chemistry I Lab 3,"Durrwachter, J",H 7:45AM-11:15AM,18/14/0,18,14,0,SC 226,2023-24,FA,0
+CH 211 04,CH,211,4,Organic Chemistry I Lab 4,"Durrwachter, J",H 1:00PM-4:30PM,18/8/0,18,8,0,SC 226,2023-24,FA,0
+CH 217 01,CH,217,1,Analytical Chemistry,"Stephens, N",M W F 7:45AM-8:50AM,36/15/0,36,15,0,SC 134,2023-24,FA,1
+CH 217 01,CH,217,1,Analytical Chemistry Lab 1,"Stephens, N",T 1:00PM-3:45PM,18/6/0,18,6,0,SC 230,2023-24,FA,0
+CH 217 02,CH,217,2,Analytical Chemistry Lab 2,"Stephens, N",H 1:00PM-3:45PM,18/9/0,18,9,0,SC 230,2023-24,FA,0
+CH 315 01,CH,315,1,Quantum Chemistry,"DeVries, C",M W F 2:30PM-3:35PM,18/6/0,18,6,0,SC 214,2023-24,FA,1
+CH 315 01,CH,315,1,Quantum Chemistry Lab,"DeVries, C",T 1:00PM-3:45PM,18/6/0,18,6,0,SC 249,2023-24,FA,0
+CH 325 01,CH,325,1,Biochemistry,"Ellerbroek, S",MWF 1:15PM-2:20PM,36/40/0,36,40,0,SC 134,2023-24,FA,1
+CH 325 01,CH,325,1,Biochemistry Lab 1,"Ellerbroek, S",H 8:00AM-10:45AM,18/19/0,18,19,0,SC 110,2023-24,FA,0
+CH 325 02,CH,325,2,Biochemistry Lab 2,"Ellerbroek, S",H 1:00PM-3:45PM,18/21/0,18,21,0,SC 110,2023-24,FA,0
+CH 455 01,CH,455,1,Methods of Biochemical Research,"Ellerbroek, S",T 6:30PM-7:35PM,8/11/00,8,11,0,SC 141,2023-24,FA,0.5
+COM 100 01,COM,100,1,Introduction to Communication,"Ohrt, P",T H 9:35AM-11:15AM,50/30/0,50,30,0,SC 102,2023-24,FA,1
+COM 112 10,COM,112,10,Oral Communication,"Ohrt, P",M W F 9:00AM-10:05AM,25/24/0,25,24,0,MC 134,2023-24,FA,0.5
+COM 112 20,COM,112,20,Oral Communication,"Ohrt, P",M W F 9:00AM-10:05AM,25/11/0,25,11,0,MC 134,2023-24,FA,0.5
+COM 112 21,COM,112,21,Oral Communication,"Johnson, R",M W F 2:30PM-3:35PM,25/25/1,25,25,1,MC 225,2023-24,FA,0.5
+COM 123 01,COM,123,1,News Practicum,"Johnson, R",,99/3/0,99,3,0,,2023-24,FA,0.25
+COM 124 01,COM,124,1,Film Practicum,"Johnson, R",,99/6/0,99,6,0,,2023-24,FA,0.25
+COM 126 01,COM,126,1,Radio Practicum,"Ohrt, P",,99/7/0,99,7,0,,2023-24,FA,0.25
+COM 127 01,COM,127,1,Organizational & PR Practicum,"Pier, P",,99/8/0,99,8,0,,2023-24,FA,0.25
+COM 129 01,COM,129,1,Sports Media Practicum,"Pier, P",,99/5/0,99,5,0,,2023-24,FA,0.25
+COM 147 01,COM,147,1,"Sports, Media and Society","Johnson, R",M W F 9:00AM-10:05AM,25/18/0,25,18,0,MC 225,2023-24,FA,1
+COM 211 01,COM,211,1,Video Production,"Johnson, R",M W F 10:45AM-11:50AM,16/7/0,16,7,0,MC 133,2023-24,FA,1
+COM 305 01,COM,305,1,Print Journalism,"Ohrt, P",M W F 2:30PM-3:35PM,18/7/0,18,7,0,MC 133,2023-24,FA,1
+COM 320 01,COM,320,1,Digital Production I,"Johnson, R",T H 9:35AM-11:15AM,16/10/0,16,10,0,MC 134,2023-24,FA,1
+COM 346 01,COM,346,1,Organizational/PR Writing Technique,"Pier, P",T H 1:00PM-2:40PM,24/10/0,24,10,0,MC 225,2023-24,FA,1
+COM 355 01,COM,355,1,Persuasion,"Pier, P",M W F 1:15PM-2:20PM,16/15/0,16,15,0,MC 225,2023-24,FA,1
+CS 110 01,CS,110,1,Introduction to Information Systems,"Hamilton, P",T H 9:35AM-11:15AM,34/33/0,34,33,0,SC 247,2023-24,FA,1
+CS 120 01,CS,120,1,Intro to Computers and Programming,"Letsche, T",M W F 7:45AM-8:50AM,34/17/0,34,17,0,SC 345,2023-24,FA,1
+CS 120 02,CS,120,2,Intro to Computers and Programming,"Zelle, J",M W F 9:00AM-10:05AM,34/15/0,34,15,0,SC 345,2023-24,FA,1
+CS 230 01,CS,230,1,Organization of Prog Lang,"Zelle, J",M W F 12:00PM-1:05PM,34/18/0,34,18,0,SC 345,2023-24,FA,1
+CS 250 01,CS,250,1,Systems Analysis,"Letsche, T",M WF 10:45AM-11:50AM,34/15/0,34,15,0,SC 345,2023-24,FA,1
+CS 385 01,CS,385,1,Concurrent Systems Fundamentals,"Letsche, T",T H 1:00PM-2:40PM,34/19/0,34,19,0,SC 345,2023-24,FA,1
+EC 117 01,EC,117,1,Principles of Macroeconomics,"Quaicoe, N",M W F 9:00AM-10:05AM,45/44/0,45,44,0,WBC 214,2023-24,FA,1
+EC 117 02,EC,117,2,Principles of Macroeconomics,"Ross, C",M W F 12:00PM-1:05PM,45/43/0,45,43,0,WBC 117,2023-24,FA,1
+EC 118 02,EC,118,2,Principles of Microeconomics,"Quaicoe, N",T H 9:35AM-11:15AM,45/31/0,45,31,0,WBC 214,2023-24,FA,1
+EC 342 01,EC,342,1,Financial Markets and Modern Money,"Quaicoe, N",M W F 10:45AM-11:50AM,40/25/0,40,25,0,WBC 116,2023-24,FA,1
+EC 401 01,EC,401,1,Econometrics,"Quaicoe, N",M W F 12:00PM-1:05PM,20/17/0,20,17,0,WBC 215,2023-24,FA,1
+EC 461 01,EC,461,1,Senior Thesis I,"Quaicoe, N",T 1:00PM-2:40PM,18/12/0,18,12,0,WBC 215,2023-24,FA,0.5
+ED 100 01,ED,100,1,Foundations of American Education,"Zittergruen, G",MWF 9:00AM-10:05AM,30/27/0,30,27,0,LIB CLAB,2023-24,FA,1
+ED 100 02,ED,100,2,Foundations of American Education,"Zittergruen, G",MWF 12:00PM-1:05PM,30/29/0,30,29,0,LIB CLAB,2023-24,FA,1
+ED 181 01,ED,181,1,Field Experience in Education,"Zittergruen, G",,60/58/0,60,58,0,,2023-24,FA,0
+ED 212 01,ED,212,1,Human Relations,"Achirri, K",M W F 12:00PM-1:05PM,30/22/0,30,22,0,OM 100,2023-24,FA,1
+ED 214 01,ED,214,1,Intro Mild & Moderate Disabilities,"Dickey, J",T H 1:00PM-2:40PM,25/11/0,25,11,0,OM 100,2023-24,FA,1
+ED 215 01,ED,215,1,Psychology of the Exceptional Child,"Dickey, J",T H 7:45AM-9:25AM,25/6/0,25,6,0,OM 100,2023-24,FA,1
+ED 215 02,ED,215,2,Psychology of the Exceptional Child,"Dickey, J",T H 9:35AM-11:15AM,25/19/0,25,19,0,OM 100,2023-24,FA,1
+ED 223 01,ED,223,1,Language Development,"Achirri, K",T H 1:00PM-2:40PM,25/15/0,25,15,0,OM 101,2023-24,FA,1
+ED 230 01,ED,230,1,Teaching in the Secondary School,"Snyder, R",T H 9:35AM-11:15AM,25/21/0,25,21,0,CLNA 127,2023-24,FA,1
+ED 282 01,ED,282,1,Fld Exp:Teaching in the Sec School,"Snyder, R",,25/21/0,25,21,0,,2023-24,FA,0
+ED 284 01,ED,284,1,Field Exp: Mild & Mod Disabilies,"Dickey, J",,25/10/0,25,10,0,,2023-24,FA,0
+ED 315 01,ED,315,1,Educational Psychology,"Snyder, R",M W F 7:45AM-8:50AM,25/14/0,25,14,0,OM 101,2023-24,FA,1
+ED 321 01,ED,321,1,Reading in the Elementary School,"Sloan, K",M W F 9:00AM-10:05AM,25/13/0,25,13,0,OM 100,2023-24,FA,1
+ED 350 01,ED,350,1,Content Area Reading Strategies,"Sloan, K",TH 7:45AM-9:25AM,25/22/0,25,22,0,OM 200,2023-24,FA,1
+ED 356 01,ED,356,1,Curr Dev & Guid of Young Children,"Moeller, S",M W F 9:00AM-10:05AM,25/9/0,25,9,0,OM 101,2023-24,FA,1
+ED 361 01,ED,361,1,Middle School Curriculum,"Snyder, R",M 6:30PM-9:30PM,30/5/0,30,5,0,OM 100,2023-24,FA,1
+ED 365 01,ED,365,1,Transitioning and Exceptionalities,"Tutu, I",T 6:30PM-9:30PM,25/4/0,25,4,0,OM 200,2023-24,FA,1
+ED 383 01,ED,383,1,Field Experience:Educational Psych,"Snyder, R",,25/14/0,25,14,0,,2023-24,FA,0
+ED 384 01,ED,384,1,Field Experience: Middle School,"Snyder, R",,25/5/0,25,5,0,,2023-24,FA,0
+ED 385 01,ED,385,1,Field Exper:Elem School Reading,"Sloan, K",,25/13/0,25,13,0,,2023-24,FA,0
+ED 470 01,ED,470,1,Secondary Content Methods: SS,"Snyder, R",T H 1:00PM-2:40PM,25/7/0,25,7,0,CLNA 127,2023-24,FA,1
+ED 480 01,ED,480,1,Student Teaching: Special Education,"Dickey, J",,8/2/00,8,2,0,,2023-24,FA,2
+ED 480 02,ED,480,2,Student Teaching: Special Education,"Moeller, S",,6/1/00,6,1,0,,2023-24,FA,2
+ED 482 01,ED,482,1,Elem Student Teaching & Capstone,"Sloan, K",,18/1/0,18,1,0,,2023-24,FA,4
+ED 482 01,ED,482,1,Elem Student Teaching & Capstone,"Hastings, A",,6/1/00,6,1,0,,2023-24,FA,4
+ED 482 02,ED,482,2,Elem Student Teaching & Capstone,"Dickey, J",,12/2/00,12,2,0,,2023-24,FA,2
+ED 482 03,ED,482,3,Elem Student Teaching & Capstone,"TBA, T",,6/0/0,6,0,0,,2023-24,FA,1
+ED 482 04,ED,482,4,Elem Student Teaching & Capstone,"Moeller, S",,6/1/00,6,1,0,,2023-24,FA,4
+ED 482 05,ED,482,5,Elem Student Teaching & Capstone,"Sloan, K",,6/1/00,6,1,0,,2023-24,FA,2
+ED 482 06,ED,482,6,Elem Student Teaching & Capstone,"Moeller, S",,6/2/00,6,2,0,,2023-24,FA,2
+ED 483 01,ED,483,1,Sec Student Teaching Capstone & Sem,"Zittergruen, G",,25/1/0,25,1,0,,2023-24,FA,4
+ED 483 02,ED,483,2,Sec Student Teaching Capstone & Sem,"TBA, T",,10/0/0,10,0,0,,2023-24,FA,2
+ED 483 03,ED,483,3,Sec Student Teaching Capstone & Sem,"Bechtel, M",,6/1/00,6,1,0,,2023-24,FA,4
+ED 484 01,ED,484,1,PreK/K Student Teaching & Capstone,"Sloan, K",,10/1/00,10,1,0,,2023-24,FA,2
+ED 484 02,ED,484,2,PreK/K Student Teaching & Capstone,"Moeller, S",,10/1/00,10,1,0,,2023-24,FA,2
+ED 485 01,ED,485,1,Music Student Teaching & Capstone,"Toliver, N",,12/11/00,12,11,0,,2023-24,FA,3.5
+ED 485 02,ED,485,2,Music Student Teaching & Capstone,"Muntefering, S",,12/3/00,12,3,0,,2023-24,FA,3.5
+ED 486 01,ED,486,1,PE Student Teaching: K-12 &Capstone,"Johnson, A",,25/2/0,25,2,0,,2023-24,FA,4
+ED 486 02,ED,486,2,PE Student Teaching: K-12 &Capstone,"TBA, T",,25/0/0,25,0,0,,2023-24,FA,3
+ED 487 01,ED,487,1,K-12 Art St Tchg & Capstone Sem,"TBA, T",,6/0/0,6,0,0,,2023-24,FA,4
+ED 488 01,ED,488,1,Middle School Student Teaching,"TBA, T",,6/0/0,6,0,0,,2023-24,FA,2
+ED 489 01,ED,489,1,5-12 Health Student Teaching,"TBA, T",,25/0/0,25,0,0,,2023-24,FA,1
+ED 526 01,ED,526,1,Coop Teacher Supervision/Assessment,"Snyder, R",,25/0/0,25,0,0,,2023-24,FA,0.25
+EI 101 01,EI,101,1,American English Language & Culture,"Amin, Z",M W F 1:15PM-2:20PM,15/5/0,15,5,0,FAC 035,2023-24,FA,1
+EI 115 01,EI,115,1,College Composition Intensive,"Boss, J",M W F 12:00PM-1:05PM,20/5/0,20,5,0,MC 134,2023-24,FA,1
+EN 115 01,EN,115,1,College Composition,"Lynch, S",M W F 9:00AM-10:05AM,20/20/0,20,20,0,W 2242,2023-24,FA,1
+EN 115 02,EN,115,2,College Composition,"Lynch, S",M W F 10:45AM-11:50AM,20/20/0,20,20,0,W 2242,2023-24,FA,1
+EN 115 03,EN,115,3,College Composition,"Platte, K",M W F 12:00PM-1:05PM,21/21/0,21,21,0,SC 249,2023-24,FA,1
+EN 115 04,EN,115,4,College Composition,"Platte, K",M W F 2:30PM-3:35PM,20/20/0,20,20,0,WBC 217,2023-24,FA,1
+EN 115 05,EN,115,5,College Composition,"Gruenwald, J",T H 7:45AM-9:25AM,20/20/0,20,20,0,LH 329,2023-24,FA,1
+EN 115 06,EN,115,6,College Composition,"Gruenwald, J",T H 9:35AM-11:15AM,20/20/0,20,20,0,LH 329,2023-24,FA,1
+EN 155 01,EN,155,1,Introduction to Film,"Lynch, S",T H 1:00PM-2:40PM,30/30/0,30,30,0,LH 330,2023-24,FA,1
+EN 201 01,EN,201,1,Cornerstones of British Literature,"Clark, R",M W F 2:30PM-3:35PM,25/10/0,25,10,0,CLNA 127,2023-24,FA,1
+EN 205 01,EN,205,1,Cornerstones of World Literature,"Boss, J",M W F 9:00AM-10:05AM,25/12/0,25,12,0,SC 140,2023-24,FA,1
+EN 263 01,EN,263,1,Race and Ethnicity in U.S. Culture,"Boss, J",M W F 2:30PM-3:35PM,25/15/0,25,15,0,LH 327,2023-24,FA,1
+EN 295 01,EN,295,1,Spec Topics: Gaming as Storytelling,"Lynch, S",T H 9:35AM-11:15AM,25/11/0,25,11,0,LH 330,2023-24,FA,1
+EN 333 01,EN,333,1,Advanced Creative Writing,"Groninga, K",M W F 1:15PM-2:20PM,15/6/0,15,6,0,LH 327,2023-24,FA,1
+EN 353 01,EN,353,1,Genders and Representations,"Groninga, K",M W F 12:00PM-1:05PM,25/24/0,25,24,0,LH 327,2023-24,FA,1
+EN 470 01,EN,470,1,Sec Content Methods: English/Journ,"Platte, K",T H 1:00PM-2:40PM,25/6/0,25,6,0,LH 329,2023-24,FA,1
+ENV 460 01,ENV,460,1,Perspectives in Environ Science,"McCullough, D",W 6:30PM-8:15PM,25/17/0,25,17,0,SC 145,2023-24,FA,0.5
+ES 105 01,ES,105,1,Introductory Engineering Seminar,"Black, D",W F 7:45AM-8:50AM,30/24/0,30,24,0,SC 214,2023-24,FA,0.5
+ES 151 01,ES,151,1,Modern Engineering Analysis I,"Faidley, L",T H 9:35AM-11:15AM,24/21/0,24,21,0,SC 245,2023-24,FA,0.5
+ES 206 01,ES,206,1,Thermal Science,"Black, D",M W F 1:15PM-2:20PM,50/16/0,50,16,0,SC 214,2023-24,FA,1
+ES 310 01,ES,310,1,Dynamics,"Mahmoud, M",M W F 12:00PM-1:05PM,24/17/0,24,17,0,SC 247,2023-24,FA,1
+ES 320 01,ES,320,1,Engineering Materials,"Faidley, L",M W F 9:00AM-10:05AM,24/20/0,24,20,0,SC 244,2023-24,FA,1
+ES 360 01,ES,360,1,Preliminary Design Project,"Faidley, L",,12/14/00,12,14,0,,2023-24,FA,0.5
+ES 402 01,ES,402,1,Engineering Seminar,"Black, D",M 7:00PM-8:40PM,24/12/0,24,12,0,SC 245,2023-24,FA,0.5
+ES 412 01,ES,412,1,Signal Processing and Communication,"Black, D",M W F 2:30PM-3:35PM,24/4/0,24,4,0,LIB 353,2023-24,FA,1
+EXS 217 01,EXS,217,1,Human Anatomy and Physiology I,"Suckow, A",M W F 2:30PM-3:35PM,48/40/0,48,40,0,W 2006,2023-24,FA,1
+EXS 217 01,EXS,217,1,Human Anatomy & Physiology I Lab 1,"Suckow, A",T 8:00AM-10:45AM,24/20/0,24,20,0,W 2007,2023-24,FA,0
+EXS 217 02,EXS,217,2,Human Anatomy & Physiology I Lab 2,"Suckow, A",T 1:00PM-3:45PM,24/20/0,24,20,0,W 2007,2023-24,FA,0
+EXS 225 01,EXS,225,1,Human Nutrition,"Chapman, R",M W F 10:45AM-11:50AM,40/31/0,40,31,0,W 2006,2023-24,FA,1
+EXS 365 01,EXS,365,1,Science of Muscle Growth,"Dietz Parsons, P",T H 1:00PM-2:40PM,25/23/0,25,23,0,W 2006,2023-24,FA,1
+EXS 461 01,EXS,461,1,Exercise Science Seminar,"Dietz Parsons, P",T H 8:35AM-9:25AM,20/18/0,20,18,0,W 2006,2023-24,FA,0.5
+GER 104 01,GER,104,1,Elementary German I,"Blass, E",M W F 10:45AM-11:50AM,25/26/0,25,26,0,LH 333,2023-24,FA,1
+GER 204 01,GER,204,1,Intermediate German I,"Blass, E",MWF 12:00PM-1:05PM,20/8/0,20,8,0,LH 333,2023-24,FA,1
+GER 304 01,GER,304,1,German Tutoring,"Blass, E",,20/2/0,20,2,0,,2023-24,FA,0.5
+GM 301 01,GM,301,1,Return Adjustment,"Boss, J",,12/0/0,12,0,0,,2023-24,FA,0.5
+GM 405 01,GM,405,1,Intercult Engagement Portfolio Sem,"Boss, J",,25/2/0,25,2,0,,2023-24,FA,0.5
+HB 201 01,HB,201,1,Biblical Hebrew I,"Wendland, K",T H 8:15AM-9:25AM,25/3/0,25,3,0,GRO 131,2023-24,FA,0.5
+HE 105 20,HE,105,20,Intro to Health and Fitness Studies,"Chapman, R",M W F 2:30PM-3:35PM,30/28/0,30,28,0,W 2007,2023-24,FA,0.5
+HE 240 10,HE,240,10,Basic Nutrition,"Cook, C",T H 1:00PM-2:40PM,25/26/0,25,26,0,W 2240,2023-24,FA,0.5
+HE 242 20,HE,242,20,Consumer Health,"Johnson, A",M W F 12:00PM-1:05PM,25/25/0,25,25,0,W 2242,2023-24,FA,0.5
+HE 244 10,HE,244,10,Coaching Authorization,"Spitzer, P",M W F 10:45AM-11:50AM,30/34/0,30,34,0,W 2007,2023-24,FA,0.5
+HI 109 01,HI,109,1,American History to 1877,"Lindell, T",MWF 10:45AM-11:50AM,40/21/0,40,21,0,LH 326,2023-24,FA,1
+HI 121 01,HI,121,1,World Civilizations I,"Walther, D",M W F 9:00AM-10:05AM,35/18/0,35,18,0,LH 326,2023-24,FA,1
+HI 240 01,HI,240,1,Historical Methods,"Lindell, T",M W F 2:30PM-3:35PM,20/17/0,20,17,0,LH 326,2023-24,FA,1
+HI 302 01,HI,302,1,The American Civil War,"Lindell, T",T H 7:45AM-9:25AM,25/15/0,25,15,0,LH 326,2023-24,FA,1
+HI 345 01,HI,345,1,History of Epidemics,"Walther, D",T H 9:35AM-11:15AM,25/7/0,25,7,0,LH 333,2023-24,FA,1
+ID 305 01,ID,305,1,Humanity and the Environment,"McCullough, D",MWF 9:00AM-10:05AM,51/52/0,51,52,0,LH 330,2023-24,FA,1
+ID 309 01,ID,309,1,Problems of War and Peace,"Billet, B",W 6:30PM-9:30PM,25/23/0,25,23,0,LH 326,2023-24,FA,1
+ID 310 01,ID,310,1,Holocaust & Significance Our Time,"Blass, E",M W F 2:30PM-3:35PM,25/28/1,25,28,1,LH 330,2023-24,FA,1
+ID 315 01,ID,315,1,"Leadership Theories and Practices: Retrieving Freedom, Inc.","Gleason, M",TH 9:35AM-11:15AM,14/14/5,14,14,5,W 2242,2023-24,FA,1
+ID 315 02,ID,315,2,Leadership Theories and Practices: Community Builders,"Moore, M",T H 1:00PM-2:40PM,30/30/3,30,30,3,SC 134,2023-24,FA,1
+ID 360 01,ID,360,1,The Metropolis:Place of Convergence,"Camarillo, T",,15/3/0,15,3,0,,2023-24,FA,1
+IS 101 00,IS,101,0,"Asking Questions, Making Choices","TBA, T",M W F 1:15PM-2:20PM,450/0/0,450,0,0,,2023-24,FA,1
+IS 101 01,IS,101,1,"Asking Questions, Making Choices: Expect the Unexpected","Colls Summers, A",MWF 1:15PM-2:20PM,25/24/0,25,24,0,W 2240,2023-24,FA,1
+IS 101 02,IS,101,2,"Asking Questions, Making Choices: Character, Ethics, Engaged Citizn","Teig Torres, K",MWF 1:15PM-2:20PM,25/24/0,25,24,0,WBC 215,2023-24,FA,1
+IS 101 03,IS,101,3,"Asking Questions, Making Choices: Connections Across Culture","Tripp-Stuck, C",MWF 1:15PM-2:20PM,25/23/0,25,23,0,FAC 213,2023-24,FA,1
+IS 101 04,IS,101,4,"Asking Questions, Making Choices: Humanities For a Better World","Wendland, K",MWF 1:15PM-2:20PM,20/20/0,20,20,0,GRO 132,2023-24,FA,1
+IS 101 05,IS,101,5,"Asking Questions, Making Choices: Surviving to Thriving in College","Leonard, L",MWF 1:15PM-2:20PM,25/26/0,25,26,0,W 2242,2023-24,FA,1
+IS 101 06,IS,101,6,"Asking Questions, Making Choices: STOP: Collaborate and LISTEN","Clark, M",MWF 1:15PM-2:20PM,25/23/0,25,23,0,LH 330,2023-24,FA,1
+IS 101 07,IS,101,7,"Asking Questions, Making Choices: Teaching Through Multiple Lenses","Mahmoud, M",MWF 1:15PM-2:20PM,25/22/0,25,22,0,SC 247,2023-24,FA,1
+IS 101 08,IS,101,8,"Asking Questions, Making Choices: Diversity and the Media","Ohrt, P",MWF 1:15PM-2:20PM,26/25/0,26,25,0,MC 134,2023-24,FA,1
+IS 101 09,IS,101,9,"Asking Questions, Making Choices: China Through Foreign Eyes","Achirri, K",M W F 1:15PM-2:20PM,25/19/0,25,19,0,OM 200,2023-24,FA,1
+IS 101 30,IS,101,30,"Asking Questions, Making Choices: Women in Sports","Weiss, H",M W F 1:15PM-2:20PM,25/24/0,25,24,0,FAC 043,2023-24,FA,1
+IS 101 31,IS,101,31,"Asking Questions, Making Choices: Pressing World Prob- STEM Prof","Faidley, L",M W F 1:15PM-2:20PM,25/22/0,25,22,0,SC 345,2023-24,FA,1
+IS 101 32,IS,101,32,"Asking Questions, Making Choices: To Be Heard-Art of Effective Comm","Stephens, N",M W F 1:15PM-2:20PM,25/22/0,25,22,0,SC 141,2023-24,FA,1
+IS 101 33,IS,101,33,"Asking Questions, Making Choices: Find Yourself. Change the World","Larson, J",M W F 1:15PM-2:20PM,25/23/0,25,23,0,FAC 212,2023-24,FA,1
+IS 101 36,IS,101,36,"Asking Questions, Making Choices: Relshps/WellBeing-College Success","Montgomery, Z",M W F 1:15PM-2:20PM,25/19/0,25,19,0,LH 329,2023-24,FA,1
+IS 101 37,IS,101,37,"Asking Questions, Making Choices: Sports Analytics","Birgen, M",M W F 1:15PM-2:20PM,25/25/0,25,25,0,SC 041,2023-24,FA,1
+IS 101 38,IS,101,38,"Asking Questions, Making Choices: Wellbeing for Student Success","Leen, K",M W F 1:15PM-2:20PM,25/18/0,25,18,0,WBC 214,2023-24,FA,1
+IS 101 39,IS,101,39,"Asking Questions, Making Choices: Exploring the End of the World","Jeffcoat Schedtler, J",M W F 1:15PM-2:20PM,25/23/0,25,23,0,GRO 131,2023-24,FA,1
+IS 101 40,IS,101,40,"Asking Questions, Making Choices: Physical and Mental Wellness","Johnson, A",M W F 1:15PM-2:20PM,25/21/0,25,21,0,OM 100,2023-24,FA,1
+IS 201 01,IS,201,1,Living in a Div World: Bathrooms: Deconst a Public Space,"Walther, D",M W F 2:30PM-3:35PM,25/24/0,25,24,0,LH 333,2023-24,FA,1
+IS 201 01,IS,201,1,Living in a Div World: Diversity in Denver,"Navarrete, L",,7/1/00,7,1,0,,2023-24,FA,1
+IS 201 02,IS,201,2,Living in a Div World: Pop Culture,"Mahmoud, M",T H 9:35AM-11:15AM,25/25/1,25,25,1,SC 214,2023-24,FA,1
+IS 201 03,IS,201,3,Living in a Div World: Climate Vulnerability,"Rumsey, B",M W F 2:30PM-3:35PM,25/25/0,25,25,0,OM 100,2023-24,FA,1
+IS 201 04,IS,201,4,"Living in a Div World: Religion, Race, Gender & Identity","Toma, J",M W F 12:00PM-1:05PM,25/25/2,25,25,2,W 2238,2023-24,FA,1
+IS 201 05,IS,201,5,Living in a Div World: Japanese Popular Media & Culture,"Boss, J",M W F 10:45AM-11:50AM,25/25/0,25,25,0,LH 329,2023-24,FA,1
+LS 111 01,LS,111,1,Professional Business Career Prep,"Meyeraan, S",T 7:45AM-9:25AM,22/22/2,22,22,2,WBC 116,2023-24,FA,0.5
+LS 111 02,LS,111,2,Professional Business Career Prep,"Meyeraan, S",H 7:45AM-9:25AM,22/20/0,22,20,0,WBC 116,2023-24,FA,0.5
+LS 115 02,LS,115,2,Exploring Elements of Leadership,"Toma, J",T H 9:35AM-11:15AM,30/28/0,30,28,0,SC 041,2023-24,FA,1
+LS 210 01,LS,210,1,IINspire Success Seminar,"Faidley, L",W 6:30PM-7:35PM,20/5/0,20,5,0,SC 245,2023-24,FA,0.25
+LS 281 01,LS,281,1,Field Exp: Adams Co Probation,"Navarrete, L",,1/1/00,1,1,0,,2023-24,FA,1
+LS 405 01,LS,405,1,Leadership Portfolio Seminar,"Moore, M",,25/23/0,25,23,0,,2023-24,FA,0.5
+MA 107 01,MA,107,1,Finite Mathematics,"Roose, M",MWF 7:45AM-8:50AM,34/29/0,34,29,0,SC 041,2023-24,FA,1
+MA 107 02,MA,107,2,Finite Mathematics,"Mahmoud, M",M W F 9:00AM-10:05AM,34/32/0,34,32,0,SC 247,2023-24,FA,1
+MA 110 01,MA,110,1,Structures of Mathematics,"Becker, J",M W F 10:45AM-11:50AM,34/34/0,34,34,0,SC 247,2023-24,FA,1
+MA 190 01,MA,190,1,Precalculus,"Roose, M",MWF 9:00AM-10:05AM,34/21/0,34,21,0,SC 041,2023-24,FA,1
+MA 214 01,MA,214,1,Statistical Methods,"Allen, C",MWF 9:00AM-10:05AM,34/33/0,34,33,0,SC 214,2023-24,FA,1
+MA 214 02,MA,214,2,Statistical Methods,"Stanton, S",MW 6:30PM-8:10PM,34/21/0,34,21,0,SC 041,2023-24,FA,1
+MA 250 01,MA,250,1,Applied Calculus,"Allen, C",M W F 10:45AM-11:50AM,34/29/0,34,29,0,SC 214,2023-24,FA,1
+MA 250 02,MA,250,2,Applied Calculus,"Birgen, M",M W F 12:00PM-1:05PM,34/28/0,34,28,0,SC 041,2023-24,FA,1
+MA 251 10,MA,251,10,Foundational Differential Calculus,"Becker, J",M W F 2:30PM-3:35PM,34/19/0,34,19,0,SC 245,2023-24,FA,0.5
+MA 252 20,MA,252,20,Foundational Integral Calculus,"Becker, J",M W F 2:30PM-3:35PM,34/18/0,34,18,0,SC 245,2023-24,FA,0.5
+MA 255 01,MA,255,1,Multivariable Calculus,"Allen, C",M W F 12:00PM-1:05PM,34/21/0,34,21,0,SC 214,2023-24,FA,1
+MA 314 01,MA,314,1,Statistical Applications,"Birgen, M",M W F 2:30PM-3:35PM,24/18/0,24,18,0,SC 041,2023-24,FA,1
+MA 404 01,MA,404,1,Algebraic Structures,"Becker, J",M W F 1:15PM-2:20PM,34/6/0,34,6,0,SC 245,2023-24,FA,1
+MA 461 01,MA,461,1,Perspectives in Mathematics,"Birgen, M",M W F 7:45AM-8:50AM,40/10/0,40,10,0,SC 245,2023-24,FA,1
+MU 105 01,MU,105,1,Music Theory I,"Wachmann, E",M W F 7:45AM-8:50AM,22/18/0,22,18,0,FAC 213,2023-24,FA,1
+MU 105 02,MU,105,2,Music Theory I,"Snead, L",M W F 9:00AM-10:05AM,22/16/0,22,16,0,FAC 212,2023-24,FA,1
+MU 105 03,MU,105,3,Music Theory I,"Wachmann, E",M W F 9:00AM-10:05AM,22/19/0,22,19,0,FAC 213,2023-24,FA,1
+MU 110 01,MU,110,1,Choir,"Nelson, L",MTWH 4:50PM-6:15PM,90/81/0,90,81,0,FAC 129,2023-24,FA,0.25
+MU 111 01,MU,111,1,Castle Singers,"Toliver, N",MTWHF 3:45PM-4:45PM,40/24/0,40,24,0,FAC 129,2023-24,FA,0.25
+MU 112 01,MU,112,1,St. Elizabeth Chorale,"Toliver, N",MT H 4:50PM-6:00PM,105/63/0,105,63,0,FAC 104,2023-24,FA,0
+MU 113 01,MU,113,1,Kantorei,"Black, K",W F 3:45PM-4:45PM,75/55/0,75,55,0,CHA CHA,2023-24,FA,0
+MU 114 01,MU,114,1,Ritterchor,"Nelson, L",MT H 3:50PM-4:45PM,90/70/0,90,70,0,CHA 010,2023-24,FA,0
+MU 119 01,MU,119,1,Handbell Choir,"Black, K",M 7:00PM-8:30PM,20/17/0,20,17,0,FAC 129,2023-24,FA,0
+MU 120 01,MU,120,1,Wind Ensemble,"Snead, L",MTWH 4:50PM-6:15PM,65/37/0,65,37,0,FAC 100,2023-24,FA,0.25
+MU 121 01,MU,121,1,Knightliters Jazzband I,"Hakanson, J",W 8:30PM-10:00PM,25/17/0,25,17,0,FAC 100,2023-24,FA,0
+MU 122 01,MU,122,1,Symphonic Band,"Snead, L",M WH 3:50PM-4:40PM,100/51/0,100,51,0,FAC 100,2023-24,FA,0
+MU 123 01,MU,123,1,Chamber Music Ensemble: Clarinet Ensemble,"Wachmann, E",,10/4/00,10,4,0,,2023-24,FA,0
+MU 123 02,MU,123,2,Chamber Music Ensemble: Flute Choir,"Cawley, D",,18/5/0,18,5,0,,2023-24,FA,0
+MU 123 03,MU,123,3,Chamber Music Ensemble: Saxophone,"Anderson, C",,14/2/0,14,2,0,,2023-24,FA,0
+MU 123 06,MU,123,6,Chamber Music Ensemble: Trombone Quartet,"TBA, T",,5/0/0,5,0,0,,2023-24,FA,0
+MU 123 31,MU,123,31,Chamber Music Ensemble: Percussion Ensemble,"Hakanson, J",,10/7/00,10,7,0,,2023-24,FA,0
+MU 123 33,MU,123,33,Chamber Music Ensemble: St. George String Quartet,"Forero Villamizar, G",,4/4/00,4,4,0,,2023-24,FA,0
+MU 125 10,MU,125,10,Diction for Singers: English,"Larson, J",T H 9:35AM-10:25AM,20/16/0,20,16,0,FAC 212,2023-24,FA,0.25
+MU 125 11,MU,125,11,Diction for Singers: English,"Larson, J",T H 10:25AM-11:15AM,20/12/0,20,12,0,FAC 212,2023-24,FA,0.25
+MU 126 20,MU,126,20,Diction for Singers: Italian,"Larson, J",T H 9:35AM-10:25AM,20/13/0,20,13,0,FAC 212,2023-24,FA,0.25
+MU 126 21,MU,126,21,Diction for Singers: Italian,"Larson, J",T H 10:25AM-11:15AM,20/13/0,20,13,0,FAC 212,2023-24,FA,0.25
+MU 129 10,MU,129,10,"Inst Meth:Flute,Clarinet,Saxophone","Snead, L",T H 7:45AM-8:35AM,12/9/00,12,9,0,FAC 129,2023-24,FA,0.25
+MU 129 20,MU,129,20,"Inst Meth:Flute,Clarinet,Saxophone","Snead, L",T H 7:45AM-8:35AM,12/6/00,12,6,0,FAC 129,2023-24,FA,0.25
+MU 130 01,MU,130,1,Wartburg-Comm Symphony Orchestra,"Nederhiser, R",M H 7:00PM-9:30PM,100/26/0,100,26,0,FAC 100,2023-24,FA,0.25
+MU 132 01,MU,132,1,Kammerstreicher,"Nederhiser, R",MTWHF 3:50PM-4:40PM,40/17/0,40,17,0,FAC 104,2023-24,FA,0.25
+MU 133 10,MU,133,10,"Inst Methods:Oboe, Bassoon","Landes, N",W 7:00PM-8:30PM,8/5/00,8,5,0,FAC 043,2023-24,FA,0.25
+MU 133 20,MU,133,20,"Inst Methods:Oboe,Bassoon","Landes, N",W 7:00PM-8:30PM,8/4/00,8,4,0,FAC 043,2023-24,FA,0.25
+MU 134 10,MU,134,10,"Inst Meth:Trumpet, French Horn","Muntefering, S",MW 2:30PM-3:20PM,12/4/00,12,4,0,FAC 129,2023-24,FA,0.25
+MU 134 20,MU,134,20,"Inst Meth:Trumpet, French Horn","Muntefering, S",M W 2:30PM-3:20PM,12/6/00,12,6,0,FAC 129,2023-24,FA,0.25
+MU 135 10,MU,135,10,"Inst Methods:Trombone,Tuba","Muntefering, S",T H 7:45AM-8:35AM,12/7/00,12,7,0,FAC 100,2023-24,FA,0.25
+MU 135 20,MU,135,20,"Inst Methods:Trombone, Tuba","Muntefering, S",T H 7:45AM-8:35AM,12/6/00,12,6,0,FAC 100,2023-24,FA,0.25
+MU 136 10,MU,136,10,Inst Methods:Mallets,"Frost, R",W 7:00PM-8:30PM,10/5/00,10,5,0,FAC 100,2023-24,FA,0.25
+MU 136 20,MU,136,20,Inst Methods:Mallets,"Frost, R",W 7:00PM-8:30PM,10/3/00,10,3,0,FAC 100,2023-24,FA,0.25
+MU 137 10,MU,137,10,Inst Methods: Drums,"Frost, R",H 1:00PM-2:40PM,10/10/00,10,10,0,FAC 100,2023-24,FA,0.25
+MU 137 20,MU,137,20,Inst Methods: Drums,"Frost, R",H 1:00PM-2:40PM,10/9/00,10,9,0,FAC 100,2023-24,FA,0.25
+MU 138 10,MU,138,10,"Inst Methods:Violin, Viola","Forero Villamizar, G",T 1:00PM-2:40PM,12/9/00,12,9,0,FAC 104,2023-24,FA,0.25
+MU 138 20,MU,138,20,"Inst Methods:Violin, Viola","Forero Villamizar, G",T 1:00PM-2:40PM,12/7/00,12,7,0,FAC 104,2023-24,FA,0.25
+MU 139 10,MU,139,10,"Inst Methods:Cello, Bass","Jensen, L",W 7:00PM-8:40PM,10/6/00,10,6,0,FAC 104,2023-24,FA,0.25
+MU 139 20,MU,139,20,"Inst Methods:Cello, Bass","Jensen, L",W 7:00PM-8:40PM,10/1/00,10,1,0,FAC 104,2023-24,FA,0.25
+MU 150 01,MU,150,1,Applied Piano,"Sheckler, H",T 2:45PM-3:30PM,50/14/0,50,14,0,FAC 104,2023-24,FA,0.25
+MU 150 02,MU,150,2,Applied Piano,"Doran, M",,30/12/0,30,12,0,,2023-24,FA,0.25
+MU 150 03,MU,150,3,Applied Piano,"Braaten-Reuter, L",,50/5/0,50,5,0,FAC 117,2023-24,FA,0.25
+MU 150 04,MU,150,4,Applied Piano,"Reuter, T",T 2:45PM-3:45PM,30/1/0,30,1,0,FAC 104,2023-24,FA,0.25
+MU 150 05,MU,150,5,Applied Piano,"Beane, D",,35/15/0,35,15,0,FAC 117,2023-24,FA,0.25
+MU 154 01,MU,154,1,Listening to Popular Music,"Frost, R",,25/29/0,25,29,0,,2023-24,FA,1
+MU 155 01,MU,155,1,Piano Class,"Sheckler, H",M W 2:30PM-3:00PM,10/10/00,10,10,0,FAC 117,2023-24,FA,0.25
+MU 155 02,MU,155,2,Piano Class,"Sheckler, H",T H 9:35AM-10:05AM,10/7/00,10,7,0,FAC 117,2023-24,FA,0.25
+MU 155 03,MU,155,3,Piano Class,"Sheckler, H",M W 3:00PM-3:30PM,10/8/00,10,8,0,FAC 117,2023-24,FA,0.25
+MU 155 04,MU,155,4,Piano Class,"Sheckler, H",T H 10:05AM-10:35AM,10/4/00,10,4,0,FAC 117,2023-24,FA,0.25
+MU 160 01,MU,160,1,Applied Organ,"Black, K",,50/3/0,50,3,0,CHA CHA,2023-24,FA,0.25
+MU 170 01,MU,170,1,Applied Voice,"Pfaltzgraff, B",H 2:45PM-3:30PM,50/14/0,50,14,0,FAC 202,2023-24,FA,0.25
+MU 170 02,MU,170,2,Applied Voice,"Larson, J",,50/6/0,50,6,0,FAC 201,2023-24,FA,0.25
+MU 170 02,MU,170,2,Applied Voice,"Larson, J",T 2:45PM-3:40PM,50/6/0,50,6,0,FAC 129,2023-24,FA,0.25
+MU 170 03,MU,170,3,Applied Voice,"Gast, D",,50/25/0,50,25,0,FAC 205,2023-24,FA,0.25
+MU 170 04,MU,170,4,Applied Voice,"Gast, R",,50/16/0,50,16,0,FAC 205,2023-24,FA,0.25
+MU 170 05,MU,170,5,Applied Voice,"Larson, S",T 2:45PM-3:40PM,25/22/0,25,22,0,FAC 129,2023-24,FA,0.25
+MU 170 06,MU,170,6,Applied Voice,"Beane Hanson, K",,50/14/0,50,14,0,FAC 204,2023-24,FA,0.25
+MU 170 07,MU,170,7,Applied Voice,"Pfaltzgraff, C",,25/15/0,25,15,0,FAC 204,2023-24,FA,0.25
+MU 170 08,MU,170,8,Applied Voice,"Gougler, K",,25/11/0,25,11,0,,2023-24,FA,0.25
+MU 176 01,MU,176,1,Voice Methods I,"Larson, S",H 6:30PM-7:30PM,15/8/0,15,8,0,FAC 043,2023-24,FA,0.25
+MU 180 B1,MU,180,B1,Applied Euphonium,"Lambert, C",,100/0/0,100,0,0,FAC 111,2023-24,FA,0.25
+MU 180 B2,MU,180,B2,Applied Brass:French Horn,"Harris, C",,100/6/0,100,6,0,FAC 012,2023-24,FA,0.25
+MU 180 B3,MU,180,B3,Applied Brass:Trombone,"Lambert, C",,100/4/0,100,4,0,FAC 111,2023-24,FA,0.25
+MU 180 B4,MU,180,B4,Applied Brass:Trumpet,"Muntefering, S",,100/9/0,100,9,0,FAC 041,2023-24,FA,0.25
+MU 180 B5,MU,180,B5,Applied Brass:Tuba,"Lambert, C",,100/0/0,100,0,0,FAC 111,2023-24,FA,0.25
+MU 180 P1,MU,180,P1,Applied Percussion,"Frost, R",,100/7/0,100,7,0,FAC 016,2023-24,FA,0.25
+MU 180 P2,MU,180,P2,Applied Percussion,"Hakanson, J",,4/4/00,4,4,0,,2023-24,FA,0.25
+MU 180 W1,MU,180,W1,Applied Woodwind:Bassoon,"Landes, N",,100/1/0,100,1,0,FAC 013,2023-24,FA,0.25
+MU 180 W2,MU,180,W2,Applied Woodwind:Clarinet,"Wachmann, E",H 2:50PM-3:40PM,100/3/0,100,3,0,FAC 104,2023-24,FA,0.25
+MU 180 W2,MU,180,W2,Applied Woodwind: Clarinet Lab,"Wachmann, E",,25/5/0,25,5,0,FAC 104,2023-24,FA,0
+MU 180 W3,MU,180,W3,Applied Woodwind: Flute,"Cawley, D",T 3:45PM-4:45PM,50/7/0,50,7,0,,2023-24,FA,0.25
+MU 180 W4,MU,180,W4,Applied Woodwind:Oboe,"Nederhiser, R",,100/1/0,100,1,0,FAC 013,2023-24,FA,0.25
+MU 180 W5,MU,180,W5,Applied Woodwind:Saxophone,"Anderson, C",,100/6/0,100,6,0,FAC 013,2023-24,FA,0.25
+MU 190 G1,MU,190,G1,Applied Guitar,"Sanders, M",,35/18/0,35,18,0,FAC 204,2023-24,FA,0.25
+MU 190 S1,MU,190,S1,Applied Strings:Cello,"Lebedeva, L",,100/5/0,100,5,0,,2023-24,FA,0.25
+MU 190 S2,MU,190,S2,Applied Strings:Viola,"Forero Villamizar, G",,100/1/0,100,1,0,FAC 108,2023-24,FA,0.25
+MU 190 S3,MU,190,S3,Applied Strings:Violin,"Forero Villamizar, G",,100/2/0,100,2,0,FAC 108,2023-24,FA,0.25
+MU 190 S4,MU,190,S4,Applied Strings: Bass,"Jensen, L",,10/0/0,10,0,0,,2023-24,FA,0.25
+MU 194 01,MU,194,1,Functional Guitar Class,"Sanders, M",F 10:45AM-11:50AM,12/12/00,12,12,0,FAC 035,2023-24,FA,0.25
+MU 205 01,MU,205,1,Music Theory III,"Black, K",MWF 9:00AM-10:05AM,22/18/0,22,18,0,FAC 043,2023-24,FA,1
+MU 205 02,MU,205,2,Music Theory III,"Black, K",M W F 10:45AM-11:50AM,22/13/0,22,13,0,FAC 043,2023-24,FA,1
+MU 207 01,MU,207,1,Aural Skills II,"Gougler, K",T H 8:35AM-9:25AM,19/17/0,19,17,0,FAC 043,2023-24,FA,0.5
+MU 207 02,MU,207,2,Aural Skills II,"Gougler, K",T H 9:35AM-10:25AM,19/11/0,19,11,0,FAC 043,2023-24,FA,0.5
+MU 210 01,MU,210,1,Principles of Music Therapy,"Ashton, B",M W F 12:00PM-1:05PM,25/14/0,25,14,0,FAC 035,2023-24,FA,1
+MU 211 01,MU,211,1,Music Therapy Musical Foundations,"Fleming, K",M W 10:45AM-11:50AM,12/11/00,12,11,0,FAC 035,2023-24,FA,0.5
+MU 211 02,MU,211,2,Music Therapy Musical Foundations,"Fleming, K",M W 12:00PM-1:05PM,12/0/0,12,0,0,FAC 213,2023-24,FA,0.5
+MU 250 01,MU,250,1,Applied Piano,"Sheckler, H",T 2:45PM-3:30PM,30/5/0,30,5,0,,2023-24,FA,0.5
+MU 250 02,MU,250,2,Applied Piano,"Doran, M",,10/0/0,10,0,0,,2023-24,FA,0.5
+MU 250 04,MU,250,4,Applied Piano,"Reuter, T",T 2:45PM-3:45PM,20/3/0,20,3,0,,2023-24,FA,0.5
+MU 250 05,MU,250,5,Applied Piano,"Beane, D",,1/1/00,1,1,0,FAC 117,2023-24,FA,0.5
+MU 260 01,MU,260,1,Applied Organ,"Black, K",,100/1/0,100,1,0,CHA CHA,2023-24,FA,0.5
+MU 270 01,MU,270,1,Applied Voice,"Pfaltzgraff, B",H 2:45PM-3:30PM,100/8/0,100,8,0,FAC 202,2023-24,FA,0.5
+MU 270 02,MU,270,2,Applied Voice,"Larson, J",,50/15/0,50,15,0,FAC 201,2023-24,FA,0.5
+MU 270 02,MU,270,2,Applied Voice,"Larson, J",T 2:45PM-3:40PM,50/15/0,50,15,0,FAC 129,2023-24,FA,0.5
+MU 270 03,MU,270,3,Applied Voice,"Gast, D",,50/2/0,50,2,0,FAC 205,2023-24,FA,0.5
+MU 270 04,MU,270,4,Applied Voice,"Gast, R",,100/4/0,100,4,0,FAC 205,2023-24,FA,0.5
+MU 270 05,MU,270,5,Applied Voice,"Larson, S",T 2:45PM-3:40PM,25/1/0,25,1,0,,2023-24,FA,0.5
+MU 270 06,MU,270,6,Applied Voice,"Beane Hanson, K",,100/5/0,100,5,0,FAC 204,2023-24,FA,0.5
+MU 270 07,MU,270,7,Applied Voice,"Pfaltzgraff, C",,15/4/0,15,4,0,FAC 204,2023-24,FA,0.5
+MU 270 08,MU,270,8,Applied Voice,"Gougler, K",,10/6/00,10,6,0,,2023-24,FA,0.5
+MU 270 09,MU,270,9,Applied Voice,"Whitish, B",,20/0/0,20,0,0,,2023-24,FA,0.5
+MU 271 01,MU,271,1,Opera Workshop,"Pfaltzgraff, B",TH 7:00PM-9:00PM,50/4/0,50,4,0,FAC 129,2023-24,FA,0.25
+MU 280 B1,MU,280,B1,Applied Euphonium,"Lambert, C",,100/2/0,100,2,0,FAC 111,2023-24,FA,0.5
+MU 280 B2,MU,280,B2,Applied Brass:French Horn,"Harris, C",,100/2/0,100,2,0,FAC 012,2023-24,FA,0.5
+MU 280 B3,MU,280,B3,Applied Brass:Trombone,"Lambert, C",,100/2/0,100,2,0,FAC 111,2023-24,FA,0.5
+MU 280 B4,MU,280,B4,Applied Brass:Trumpet,"Muntefering, S",,100/5/0,100,5,0,FAC 041,2023-24,FA,0.5
+MU 280 B5,MU,280,B5,Applied Brass:Tuba,"Lambert, C",,100/2/0,100,2,0,FAC 111,2023-24,FA,0.5
+MU 280 P1,MU,280,P1,Applied Percussion,"Frost, R",,100/5/0,100,5,0,FAC 016,2023-24,FA,0.5
+MU 280 P2,MU,280,P2,Applied Percussion,"Hakanson, J",,10/0/0,10,0,0,,2023-24,FA,0.5
+MU 280 W1,MU,280,W1,Applied Woodwind:Bassoon,"Landes, N",,100/0/0,100,0,0,FAC 013,2023-24,FA,0.5
+MU 280 W2,MU,280,W2,Applied Woodwind:Clarinet,"Wachmann, E",H 2:50PM-3:40PM,100/6/0,100,6,0,FAC 104,2023-24,FA,0.5
+MU 280 W2,MU,280,W2,Applied Woodwind:Clarinet,"Wachmann, E",,100/6/0,100,6,0,FAC 113,2023-24,FA,0.5
+MU 280 W3,MU,280,W3,Applied Woodwind:Flute,"Cawley, D",T 3:45PM-4:45PM,100/5/0,100,5,0,,2023-24,FA,0.5
+MU 280 W4,MU,280,W4,Applied Woodwind:Oboe,"Nederhiser, R",,100/1/0,100,1,0,FAC 013,2023-24,FA,0.5
+MU 280 W5,MU,280,W5,Applied Woodwind:Saxophone,"Anderson, C",,100/3/0,100,3,0,FAC 013,2023-24,FA,0.5
+MU 281 01,MU,281,1,Choral\Inst Field Experience 5-12,"Muntefering, S",,50/15/0,50,15,0,,2023-24,FA,0
+MU 283 01,MU,283,1,Music Therapy Methods & Techniques,"Ashton, B",T H 1:00PM-2:05PM,18/15/0,18,15,0,FAC 035,2023-24,FA,0.5
+MU 285 01,MU,285,1,Music Therapy Practicum II,"Ashton, B",W 6:30PM-7:30PM,20/0/0,20,0,0,FAC 035,2023-24,FA,0
+MU 285 02,MU,285,2,Music Therapy Practicum II,"Fleming, K",W 6:30PM-7:30PM,20/0/0,20,0,0,FAC 035,2023-24,FA,0
+MU 285 03,MU,285,3,Music Therapy Practicum II,"Rewerts, K",W 6:30PM-7:30PM,20/0/0,20,0,0,FAC 035,2023-24,FA,0
+MU 285 04,MU,285,4,Music Therapy Practicum II,"Wendland, M",W 6:30PM-7:30PM,20/0/0,20,0,0,FAC 035,2023-24,FA,0
+MU 285 05,MU,285,5,Music Therapy Practicum II,"Lekander, L",W 6:30PM-7:30PM,20/0/0,20,0,0,FAC 035,2023-24,FA,0
+MU 285 06,MU,285,6,Music Therapy Practicum II,"Anderson, L",W 6:30PM-7:30PM,20/0/0,20,0,0,FAC 035,2023-24,FA,0
+MU 290 G1,MU,290,G1,Applied:Guitar,"Sanders, M",,50/1/0,50,1,0,FAC 204,2023-24,FA,0.5
+MU 290 S1,MU,290,S1,Applied Strings:Cello,"Lebedeva, L",,100/0/0,100,0,0,,2023-24,FA,0.5
+MU 290 S2,MU,290,S2,Applied Strings:Viola,"Forero Villamizar, G",,100/0/0,100,0,0,FAC 108,2023-24,FA,0.5
+MU 290 S3,MU,290,S3,Applied Strings:Violin,"Forero Villamizar, G",,100/0/0,100,0,0,FAC 108,2023-24,FA,0.5
+MU 290 S4,MU,290,S4,Applied Strings:Bass,"Jensen, L",,10/0/0,10,0,0,,2023-24,FA,0.5
+MU 309 01,MU,309,1,Choral/Instrum Methods:Grade 5-12,"Muntefering, S",T H 1:00PM-2:40PM,25/15/0,25,15,0,FAC 213,2023-24,FA,1
+MU 313 01,MU,313,1,Influence of Music on Behavior,"Ashton, B",T H 9:35AM-11:15AM,20/7/0,20,7,0,FAC 213,2023-24,FA,1
+MU 316 01,MU,316,1,Music History II,"Doran, M",M W F 10:45AM-11:50AM,20/15/0,20,15,0,FAC 212,2023-24,FA,1
+MU 316 02,MU,316,2,Music History II,"Doran, M",M W F 12:00PM-1:05PM,20/14/0,20,14,0,FAC 212,2023-24,FA,1
+MU 324 01,MU,324,1,Conducting,"Nederhiser, R",MWF 7:45AM-8:50AM,15/11/0,15,11,0,FAC 129,2023-24,FA,1
+MU 324 02,MU,324,2,Conducting,"Nelson, L",MWF 9:00AM-10:05AM,15/12/0,15,12,0,FAC 129,2023-24,FA,1
+MU 350 01,MU,350,1,Applied Piano,"Sheckler, H",T 2:45PM-3:30PM,30/0/0,30,0,0,,2023-24,FA,1
+MU 350 02,MU,350,2,Applied Piano,"Doran, M",,10/0/0,10,0,0,,2023-24,FA,1
+MU 350 04,MU,350,4,Applied Piano,"Reuter, T",T 2:45PM-3:45PM,20/0/0,20,0,0,,2023-24,FA,1
+MU 360 01,MU,360,1,Applied Organ,"Black, K",,100/0/0,100,0,0,CHA CHA,2023-24,FA,1
+MU 370 01,MU,370,1,Applied Voice,"Pfaltzgraff, B",H 2:45PM-3:30PM,100/0/0,100,0,0,FAC 202,2023-24,FA,1
+MU 370 02,MU,370,2,Applied Voice,"Larson, J",,50/2/0,50,2,0,FAC 201,2023-24,FA,1
+MU 370 02,MU,370,2,Applied Voice,"Larson, J",T 2:45PM-3:40PM,50/2/0,50,2,0,FAC 129,2023-24,FA,1
+MU 370 03,MU,370,3,Applied Voice,"Gast, D",,50/0/0,50,0,0,FAC 205,2023-24,FA,1
+MU 370 04,MU,370,4,Applied Voice,"Gast, R",,50/0/0,50,0,0,FAC 205,2023-24,FA,1
+MU 370 05,MU,370,5,Applied Voice,"Larson, S",T 2:45PM-3:40PM,50/0/0,50,0,0,,2023-24,FA,1
+MU 370 06,MU,370,6,Applied Voice,"Beane Hanson, K",,100/0/0,100,0,0,,2023-24,FA,1
+MU 370 07,MU,370,7,Applied Voice,"Pfaltzgraff, C",,10/1/00,10,1,0,FAC 204,2023-24,FA,1
+MU 370 08,MU,370,8,Applied Voice,"Gougler, K",,10/0/0,10,0,0,,2023-24,FA,1
+MU 380 B1,MU,380,B1,Applied Euphonium,"Lambert, C",,100/0/0,100,0,0,FAC 111,2023-24,FA,1
+MU 380 B2,MU,380,B2,Applied Brass:French Horn,"Harris, C",,100/1/0,100,1,0,FAC 012,2023-24,FA,1
+MU 380 B3,MU,380,B3,Applied Brass:Trombone,"Lambert, C",,100/0/0,100,0,0,FAC 111,2023-24,FA,1
+MU 380 B4,MU,380,B4,Applied Brass:Trumpet,"Muntefering, S",,100/0/0,100,0,0,FAC 041,2023-24,FA,1
+MU 380 B5,MU,380,B5,Applied Brass:Tuba,"Lambert, C",,100/0/0,100,0,0,FAC 111,2023-24,FA,1
+MU 380 P1,MU,380,P1,Applied Percussion,"Frost, R",,100/0/0,100,0,0,FAC 016,2023-24,FA,1
+MU 380 W1,MU,380,W1,Applied Woodwind:Bassoon,"Landes, N",,100/0/0,100,0,0,FAC 013,2023-24,FA,1
+MU 380 W2,MU,380,W2,Applied Woodwind:Clarinet,"Wachmann, E",H 2:50PM-3:40PM,100/0/0,100,0,0,FAC 104,2023-24,FA,1
+MU 380 W2,MU,380,W2,Applied Woodwind:Clarinet,"Wachmann, E",,100/0/0,100,0,0,FAC 113,2023-24,FA,1
+MU 380 W3,MU,380,W3,Applied Woodwind:Flute,"Cawley, D",T 3:45PM-4:45PM,100/0/0,100,0,0,,2023-24,FA,1
+MU 380 W4,MU,380,W4,Applied Woodwind:Oboe,"Nederhiser, R",,100/0/0,100,0,0,FAC 013,2023-24,FA,1
+MU 380 W5,MU,380,W5,Applied Woodwind:Saxophone,"Anderson, C",,100/0/0,100,0,0,FAC 013,2023-24,FA,1
+MU 382 01,MU,382,1,Music Therapy Practicum III,"Ashton, B",W 7:30PM-8:30PM,20/0/0,20,0,0,FAC 035,2023-24,FA,0
+MU 382 02,MU,382,2,Music Therapy Practicum III,"Fleming, K",W 7:30PM-8:30PM,20/4/0,20,4,0,FAC 035,2023-24,FA,0
+MU 382 03,MU,382,3,Music Therapy Practicum III,"Rewerts, K",W 7:30PM-8:30PM,20/1/0,20,1,0,FAC 035,2023-24,FA,0
+MU 382 04,MU,382,4,Music Therapy Practicum III,"Wendland, M",W 7:30PM-8:30PM,20/0/0,20,0,0,FAC 035,2023-24,FA,0
+MU 382 05,MU,382,5,Music Therapy Practicum III,"Lekander, L",W 7:30PM-8:30PM,20/1/0,20,1,0,FAC 035,2023-24,FA,0
+MU 382 06,MU,382,6,Music Therapy Practicum III,"Anderson, L",W 7:30PM-8:30PM,20/0/0,20,0,0,FAC 035,2023-24,FA,0
+MU 383 01,MU,383,1,Music Therapy Practicum IV,"Ashton, B",W 7:30PM-8:30PM,20/1/0,20,1,0,FAC 035,2023-24,FA,0
+MU 383 02,MU,383,2,Music Therapy Practicum IV,"Fleming, K",W 7:30PM-8:30PM,20/0/0,20,0,0,FAC 035,2023-24,FA,0
+MU 383 03,MU,383,3,Music Therapy Practicum IV,"Rewerts, K",W 7:30PM-8:30PM,20/0/0,20,0,0,FAC 035,2023-24,FA,0
+MU 383 04,MU,383,4,Music Therapy Practicum IV,"Wendland, M",W 7:30PM-8:30PM,20/0/0,20,0,0,FAC 035,2023-24,FA,0
+MU 383 05,MU,383,5,Music Therapy Practicum IV,"Lekander, L",W 7:30PM-8:30PM,20/0/0,20,0,0,FAC 035,2023-24,FA,0
+MU 383 06,MU,383,6,Music Therapy Practicum IV,"Anderson, L",W 7:30PM-8:30PM,20/0/0,20,0,0,FAC 035,2023-24,FA,0
+MU 390 G1,MU,390,G1,Applied Guitar,"Sanders, M",,50/0/0,50,0,0,,2023-24,FA,1
+MU 390 S1,MU,390,S1,Applied Strings:Cello,"Lebedeva, L",,100/0/0,100,0,0,,2023-24,FA,1
+MU 390 S2,MU,390,S2,Applied Strings:Viola,"Forero Villamizar, G",,100/0/0,100,0,0,FAC 108,2023-24,FA,1
+MU 390 S3,MU,390,S3,Applied Strings:Violin,"Forero Villamizar, G",,100/0/0,100,0,0,FAC 108,2023-24,FA,1
+MU 390 S4,MU,390,S4,Applied Strings: Bass,"Jensen, L",,10/0/0,10,0,0,,2023-24,FA,1
+MU 405 01,MU,405,1,Music Therapy Internship,"Ashton, B",,99/6/0,99,6,0,,2023-24,FA,1
+MU 485 01,MU,485,1,Music Therapy Practicum V,"Ashton, B",W 7:30PM-8:30PM,20/2/0,20,2,0,FAC 035,2023-24,FA,0
+MU 485 02,MU,485,2,Music Therapy Practicum V,"Fleming, K",W 7:30PM-8:30PM,20/3/0,20,3,0,FAC 035,2023-24,FA,0
+MU 485 03,MU,485,3,Music Therapy Practicum V,"Rewerts, K",W 7:30PM-8:30PM,20/2/0,20,2,0,FAC 035,2023-24,FA,0
+MU 485 04,MU,485,4,Music Therapy Practicum V,"Wendland, M",W 7:30PM-8:30PM,20/3/0,20,3,0,FAC 035,2023-24,FA,0
+MU 485 05,MU,485,5,Music Therapy Practicum V,"Lekander, L",W 7:30PM-8:30PM,20/1/0,20,1,0,FAC 035,2023-24,FA,0
+MU 485 06,MU,485,6,Music Therapy Practicum V,"Anderson, L",W 7:30PM-8:30PM,20/0/0,20,0,0,FAC 035,2023-24,FA,0
+MU 485 08,MU,485,8,Music Therapy Practicum V,"TBA, T",W 7:30PM-8:30PM,20/0/0,20,0,0,FAC 035,2023-24,FA,0
+MU 485 30,MU,485,30,Music Therapy Practicum V,"TBA, T",W 7:30PM-8:30PM,20/0/0,20,0,0,FAC 035,2023-24,FA,0
+MU 997 01,MU,997,1,Junior Recital,"Pfaltzgraff, B",,50/0/0,50,0,0,,2023-24,FA,0
+MU 998 01,MU,998,1,Senior Recital,"Pfaltzgraff, B",,50/1/0,50,1,0,,2023-24,FA,0
+NSC 235 01,NSC,235,1,Fundamentals of Neuroscience,"Larimer Bousquet, S",M W F 1:15PM-2:20PM,24/9/0,24,9,0,SC 140,2023-24,FA,1
+NSC 235 01,NSC,235,1,Fundamentals of Neuroscience Lab 1,"Larimer Bousquet, S",T 1:00PM-4:15PM,24/9/0,24,9,0,SC 143,2023-24,FA,0
+NSC 335 01,NSC,335,1,Neurobiology,"Larimer Bousquet, S",M W F 7:45AM-8:50AM,24/10/0,24,10,0,SC 141,2023-24,FA,1
+NSC 335 01,NSC,335,1,Neurobiology Lab,"Larimer Bousquet, S",H 1:00PM-4:15PM,24/10/0,24,10,0,SC 143,2023-24,FA,0
+NSC 455 01,NSC,455,1,Methods of Neuroscience Research,"Toering Peters, S",T 6:30PM-7:35PM,16/9/0,16,9,0,SC 041,2023-24,FA,0.5
+PBH 101 01,PBH,101,1,Introduction to Public Health,"Vander Werff, A",M W F 10:45AM-11:50AM,30/16/0,30,16,0,SC 244,2023-24,FA,1
+PBH 310 01,PBH,310,1,Epidemiology,"Bates, G",T H 1:00PM-2:40PM,30/12/0,30,12,0,SC 141,2023-24,FA,1
+PBH 455 01,PBH,455,1,Applied Public Health Research,"Toering Peters, S",,12/1/00,12,1,0,,2023-24,FA,1
+PE 100 11,PE,100,11,Lifetime Wellness,"Foster, D",MW 9:00AM-10:05AM,25/27/0,25,27,0,W 2238,2023-24,FA,0.5
+PE 100 12,PE,100,12,Lifetime Wellness,"Foster, D",MW 10:45AM-11:50AM,25/24/1,25,24,1,W 2238,2023-24,FA,0.5
+PE 100 20,PE,100,20,Lifetime Wellness,"Foster, D",MW 7:45AM-8:50AM,25/26/1,25,26,1,W 2238,2023-24,FA,0.5
+PE 100 21,PE,100,21,Lifetime Wellness,"Foster, D",MW 9:00AM-10:05AM,26/25/0,26,25,0,W 2238,2023-24,FA,0.5
+PE 142 10,PE,142,10,Introduction to Sport Management,"Weiss, H",T H 9:35AM-11:15AM,25/21/0,25,21,0,W 2240,2023-24,FA,0.5
+PE 155 01,PE,155,1,Care & Prevention:Athletic Injuries,"Becker, A",TH 7:45AM-9:25AM,25/25/0,25,25,0,W 2240,2023-24,FA,1
+PE 210 20,PE,210,20,Motor Learning,"Johnson, A",M W F 10:45AM-11:50AM,25/25/0,25,25,0,W 2238,2023-24,FA,0.5
+PE 252 01,PE,252,1,Phys Educ for Elementary Grades,"Johnson, A",M 6:30PM-9:30PM,25/20/0,25,20,0,W 2238,2023-24,FA,1
+PE 254 01,PE,254,1,Physiology of Exercise,"Dietz Parsons, P",TH 9:35AM-11:15AM,25/17/0,25,17,0,W 2006,2023-24,FA,1
+PE 375 01,PE,375,1,Admin & Organ Fitness Prog & Fac,"Williams, R",TH 9:35AM-11:15AM,25/18/0,25,18,0,W 2238,2023-24,FA,1
+PH 341 01,PH,341,1,Buddhist Traditions,"Terasawa, K",M W F 1:15PM-2:20PM,25/5/0,25,5,0,GRO 016,2023-24,FA,1
+PHY 101 01,PHY,101,1,General Physics I,"Yan, V",M W F 12:00PM-1:05PM,40/25/0,40,25,0,SC 245,2023-24,FA,1
+PHY 101 01,PHY,101,1,General Physics I Lab 1,"Yan, V",H 7:45AM-9:25AM,20/14/0,20,14,0,SC 343,2023-24,FA,0
+PHY 101 02,PHY,101,2,General Physics I Lab 2,"Yan, V",H 9:35AM-11:15AM,20/11/0,20,11,0,SC 343,2023-24,FA,0
+PHY 120 0R,PHY,120,0R,Science of Water Lab,"Bechtel, M",,1/1/00,1,1,0,,2023-24,FA,0
+PHY 150 01,PHY,150,1,Science for Society,"Zelle, J",M W F 10:45AM-11:50AM,24/25/1,24,25,1,SC 140,2023-24,FA,1
+PHY 150 02,PHY,150,2,Science for Society,"Bousquet, B",M W F 12:00PM-1:05PM,24/26/0,24,26,0,SC 141,2023-24,FA,1
+PHY 203 01,PHY,203,1,Classical Physics I,"Bousquet, B",M W F 10:45AM-11:50AM,20/19/0,20,19,0,SC 141,2023-24,FA,1
+PHY 203 02,PHY,203,2,Classical Physics I Lab 2,"Bousquet, B",T 9:35AM-11:15AM,20/19/0,20,19,0,SC 343,2023-24,FA,0
+PHY 207 01,PHY,207,1,Modern Physics,"Bousquet, B",M W F 9:00AM-10:05AM,35/3/0,35,3,0,SC 141,2023-24,FA,1
+PHY 370 01,PHY,370,1,Topics in Astrophysics,"Yan, V",M W F 10:45AM-11:50AM,34/3/0,34,3,0,SC 245,2023-24,FA,1
+PHY 370 01,PHY,370,1,Topics in Astrophysics Lab,"Yan, V",T 1:00PM-2:40PM,34/3/0,34,3,0,SC 343,2023-24,FA,0
+POR 104 01,POR,104,1,Elementary Portuguese I,"Montgomery, Z",M W F 9:00AM-10:05AM,25/13/0,25,13,0,LH 329,2023-24,FA,1
+POR 104 02,POR,104,2,Elementary Portuguese I,"Montgomery, Z",M W F 12:00PM-1:05PM,25/21/0,25,21,0,LH 329,2023-24,FA,1
+PS 101 01,PS,101,1,Introduction to American Politics,"Billet, B",MWF 12:00PM-1:05PM,30/9/0,30,9,0,LH 326,2023-24,FA,1
+PS 120 01,PS,120,1,Introduction to National Security,"Szarejko, A",M W F 10:45AM-11:50AM,25/17/0,25,17,0,LH 330,2023-24,FA,1
+PS 195 01,PS,195,1,Special Topics: Scope/Methods of Politcal Science,"Szarejko, A",M W F 9:00AM-10:05AM,25/14/0,25,14,0,LH 327,2023-24,FA,1
+PS 302 01,PS,302,1,International Relations,"Billet, B",MWF 1:15PM-2:20PM,25/13/0,25,13,0,LH 326,2023-24,FA,1
+PS 308 01,PS,308,1,The American Presidency,"Szarejko, A",M W F 12:00PM-1:05PM,25/7/0,25,7,0,LH 330,2023-24,FA,1
+PS 321 01,PS,321,1,Research Methods & Data Analysis,"Reiher, T",M W F 9:00AM-10:05AM,25/0/0,25,0,0,LH 333,2023-24,FA,1
+PS 321 02,PS,321,2,Research Methods & Data Analysis,"Bane, C",M W F 10:45AM-11:50AM,25/4/0,25,4,0,,2023-24,FA,1
+PS 321 03,PS,321,3,Research Methods & Data Analysis,"Eslick Watkins, A",M W F 1:15PM-2:20PM,25/1/0,25,1,0,LH 324,2023-24,FA,1
+PSY 101 01,PSY,101,1,Introduction to Psychology,"Heck, A",T H 9:35AM-11:15AM,40/41/0,40,41,0,SC 134,2023-24,FA,1
+PSY 101 02,PSY,101,2,Introduction to Psychology,"Heck, A",T H 1:00PM-2:40PM,40/40/0,40,40,0,WBC 116,2023-24,FA,1
+PSY 210 10,PSY,210,10,Child Development,"Munir, S",T H 7:45AM-9:25AM,30/18/0,30,18,0,LH 327,2023-24,FA,0.5
+PSY 211 20,PSY,211,20,Adolescent Development,"Munir, S",T H 7:45AM-9:25AM,30/15/0,30,15,0,LH 327,2023-24,FA,0.5
+PSY 222 01,PSY,222,1,Cognitive Psychology,"Eslick Watkins, A",T H 9:35AM-11:15AM,25/14/0,25,14,0,LH 324,2023-24,FA,1
+PSY 224 01,PSY,224,1,Abnormal Psychology,"Reiher, T",MWF 10:45AM-11:50AM,30/28/0,30,28,0,LH 327,2023-24,FA,1
+PSY 225 01,PSY,225,1,Life-Span Human Development,"Munir, S",MWF 9:00AM-10:05AM,30/29/0,30,29,0,W 2240,2023-24,FA,1
+PSY 225 02,PSY,225,2,Life-Span Human Development,"Munir, S",MWF 10:45AM-11:50AM,30/21/0,30,21,0,W 2240,2023-24,FA,1
+PSY 303 01,PSY,303,1,Counseling Psychology,"Reiher, T",TH 1:00PM-2:40PM,30/25/0,30,25,0,LH 324,2023-24,FA,1
+PSY 321 01,PSY,321,1,Research Methods & Data Analysis,"Reiher, T",MWF 9:00AM-10:05AM,25/24/0,25,24,0,LH 333,2023-24,FA,1
+PSY 321 02,PSY,321,2,Research Methods & Data Analysis,"Bane, C",M W F 10:45AM-11:50AM,25/24/0,25,24,0,,2023-24,FA,1
+PSY 321 03,PSY,321,3,Research Methods & Data Analysis,"Eslick Watkins, A",M W F 1:15PM-2:20PM,25/21/0,25,21,0,LH 324,2023-24,FA,1
+PSY 327 01,PSY,327,1,Psychology of Gender,"Munir, S",T H 9:35AM-11:15AM,25/6/0,25,6,0,LH 327,2023-24,FA,1
+PSY 422 01,PSY,422,1,Advanced Cognitive Psychology,"Eslick Watkins, A",T H 1:00PM-2:40PM,12/1/00,12,1,0,LH 333,2023-24,FA,1
+PSY 423 01,PSY,423,1,Advanced Social Psychology,"Eslick Watkins, A",T H 1:00PM-2:40PM,12/2/00,12,2,0,LH 333,2023-24,FA,1
+PSY 424 01,PSY,424,1,Advanced Clinical Psychology,"Eslick Watkins, A",T H 1:00PM-2:40PM,12/3/00,12,3,0,LH 333,2023-24,FA,1
+PSY 425 01,PSY,425,1,Advanced Human Development,"Eslick Watkins, A",T H 1:00PM-2:40PM,12/1/00,12,1,0,LH 333,2023-24,FA,1
+PSY 426 01,PSY,426,1,Advanced Neuropsychology,"Eslick Watkins, A",T H 1:00PM-2:40PM,12/0/0,12,0,0,LH 333,2023-24,FA,1
+RE 102 01,RE,102,1,The Bible in a Diverse World,"Wendland, K",M W F 7:45AM-8:50AM,38/38/0,38,38,0,GRO 131,2023-24,FA,1
+RE 102 02,RE,102,2,The Bible in a Diverse World,"Wendland, K",M W F 9:00AM-10:05AM,38/38/0,38,38,0,GRO 131,2023-24,FA,1
+RE 102 03,RE,102,3,The Bible in a Diverse World,"Riswold, C",M W F 10:45AM-11:50AM,38/32/0,38,32,0,GRO 132,2023-24,FA,1
+RE 102 04,RE,102,4,The Bible in a Diverse World,"Helgevold, A",M W F 10:45AM-11:50AM,38/31/0,38,31,0,GRO 131,2023-24,FA,1
+RE 102 05,RE,102,5,The Bible in a Diverse World,"Helgevold, A",M W F 12:00PM-1:05PM,38/37/1,38,37,1,GRO 131,2023-24,FA,1
+RE 202 01,RE,202,1,World Religions in Dialogue,"Terasawa, K",M W F 9:00AM-10:05AM,25/23/2,25,23,2,GRO 016,2023-24,FA,1
+RE 202 02,RE,202,2,World Religions in Dialogue,"Terasawa, K",M W F 10:45AM-11:50AM,25/22/0,25,22,0,GRO 016,2023-24,FA,1
+RE 222 01,RE,222,1,Sexual Ethics,"Helgevold, A",T H 9:35AM-11:15AM,35/21/0,35,21,0,GRO 132,2023-24,FA,1
+RE 302 01,RE,302,1,New Testament Studies: Gospels,"Jeffcoat Schedtler, J",M W F 12:00PM-1:05PM,25/19/0,25,19,0,GRO 132,2023-24,FA,1
+RE 310 01,RE,310,1,Living with Death,"Smiley, A",TH 1:00PM-2:40PM,35/35/1,35,35,1,GRO 132,2023-24,FA,1
+RE 312 01,RE,312,1,End of the World in Bible & Culture,"Jeffcoat Schedtler, J",,25/2/0,25,2,0,,2023-24,FA,1
+RE 321 01,RE,321,1,"Gender, Race and Religions","Riswold, C",M W F 1:15PM-2:20PM,25/25/0,25,25,0,LH 201,2023-24,FA,1
+RE 341 01,RE,341,1,Buddhist Traditions,"Terasawa, K",M W F 1:15PM-2:20PM,25/25/0,25,25,0,GRO 016,2023-24,FA,1
+SCH 101 01,SCH,101,1,First Year Scholar Seminar: Utopias and Dystopias,"Clark, R",M W F 1:15PM-2:20PM,20/20/0,20,20,0,CLNA 127,2023-24,FA,1
+SCH 202 01,SCH,202,1,Living in a Diverse World (Honors): Witches Around the World,"Clark, R",M W F 9:00AM-10:05AM,25/9/0,25,9,0,CLNA 127,2023-24,FA,1
+SCH 401 01,SCH,401,1,Senior Scholars Seminar,"Clark, R",,20/7/0,20,7,0,,2023-24,FA,0.25
+SCI 385 01,SCI,385,1,Elementary Science Methods,"Bechtel, M",M W F 10:45AM-11:50AM,24/13/0,24,13,0,SC 128,2023-24,FA,1
+SO 101 01,SO,101,1,Introduction to Sociology,"McQueen, J",M W F 9:00AM-10:05AM,30/21/0,30,21,0,LH 201,2023-24,FA,1
+SO 101 02,SO,101,2,Introduction to Sociology,"Sundblad, D",M W F 10:45AM-11:50AM,30/15/0,30,15,0,LH 201,2023-24,FA,1
+SO 270 01,SO,270,1,Social Problems,"McQueen, J",T H 9:35AM-11:15AM,30/10/0,30,10,0,LH 201,2023-24,FA,1
+SO 315 01,SO,315,1,Sociological Theory,"Sundblad, D",T H 1:00PM-2:40PM,25/24/0,25,24,0,LH 201,2023-24,FA,1
+SO 321 01,SO,321,1,Research Methods & Data Analysis,"Reiher, T",M W F 9:00AM-10:05AM,25/4/0,25,4,0,LH 333,2023-24,FA,1
+SO 321 02,SO,321,2,Research Methods & Data Analysis,"Bane, C",M W F 10:45AM-11:50AM,25/4/0,25,4,0,,2023-24,FA,1
+SO 321 03,SO,321,3,Research Methods & Data Analysis,"Eslick Watkins, A",M W F 1:15PM-2:20PM,25/6/0,25,6,0,LH 324,2023-24,FA,1
+SO 460 01,SO,460,1,Perspectives in Sociology,"Sundblad, D",T H 9:35AM-11:15AM,15/20/0,15,20,0,WBC 217,2023-24,FA,1
+SO 481 01,SO,481,1,Field Exp:1st Dist-Dept of Correcti,"McQueen, J",,1/1/00,1,1,0,,2023-24,FA,1
+SP 104 01,SP,104,1,Elementary Spanish I,"Ramirez Martinez, M",M W F 9:00AM-10:05AM,25/25/1,25,25,1,LH 324,2023-24,FA,1
+SP 104 02,SP,104,2,Elementary Spanish I,"Ramirez Martinez, M",M W F 2:30PM-3:35PM,25/24/0,25,24,0,LH 324,2023-24,FA,1
+SP 106 01,SP,106,1,Elementary Spanish II,"Llerena Gomez, H",T H 6:30PM-8:10PM,25/18/0,25,18,0,LH 324,2023-24,FA,1
+SP 204 01,SP,204,1,Intermediate Spanish I,"Ramirez Martinez, M",MWF 10:45AM-11:50AM,20/15/0,20,15,0,LH 324,2023-24,FA,1
+SP 204 02,SP,204,2,Intermediate Spanish I,"Ramirez Martinez, M",M W F 12:00PM-1:05PM,20/13/0,20,13,0,LH 324,2023-24,FA,1
+SP 204 03,SP,204,3,Intermediate Spanish I,"Rector, A",M W F 2:30PM-3:35PM,20/8/0,20,8,0,LH 329,2023-24,FA,1
+SP 304 01,SP,304,1,Spanish Tutoring,"Montgomery, Z",,20/2/0,20,2,0,,2023-24,FA,0.5
+SP 315 01,SP,315,1,Latinos in the United States,"Rector, A",M W F 12:00PM-1:05PM,20/10/0,20,10,0,LH 201,2023-24,FA,1
+SP 320 01,SP,320,1,Spanish Language and Composition,"Rector, A",M W F 10:45AM-11:50AM,20/22/0,20,22,0,CLNA 127,2023-24,FA,1
+SW 101 01,SW,101,1,Intro Social Work & Social Welfare,"Coleman-Waterbury, T",MWF 12:00PM-1:05PM,25/24/0,25,24,0,OM 200,2023-24,FA,1
+SW 201 01,SW,201,1,Human Behavior,"Faux, T",M W F 2:30PM-3:35PM,25/27/0,25,27,0,OM 200,2023-24,FA,1
+SW 302 01,SW,302,1,Practice II: Diversity/Intervention,"Coleman-Waterbury, T",T H 9:35AM-11:15AM,25/15/0,25,15,0,OM 200,2023-24,FA,1
+SW 303 01,SW,303,1,Practice III: Orgs/Communities,"Faux, T",M W F 9:00AM-10:05AM,25/15/0,25,15,0,OM 200,2023-24,FA,1
+SW 321 01,SW,321,1,Social Work Research,"Faux, T",TH 1:00PM-2:40PM,25/10/0,25,10,0,OM 200,2023-24,FA,1
+WS 327 01,WS,327,1,Psychology of Gender,"Munir, S",T H 9:35AM-11:15AM,25/0/0,25,0,0,LH 327,2023-24,FA,1
+WS 353 01,WS,353,1,Genders and Representations,"Groninga, K",M W F 12:00PM-1:05PM,25/8/0,25,8,0,LH 327,2023-24,FA,1
+WW 999 01,WW,999,1,Wartburg West,"TBA, T",,20/0/0,20,0,0,,2023-24,FA,2
